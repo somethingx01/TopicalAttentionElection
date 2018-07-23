@@ -10,7 +10,7 @@ Download dataset
 This repository should include preprocessed datasets organized in epochs, which are essential for for training and prediction. However, github doesn't allow large files to be upload, so you have to manually download the dataset and place them in the ./datasets/ directory. Please click xxxxxxxxxxxxxx to download the ElectionDataset.7z file.
 
 #ElectionParams.7z
-The params are essential for setting the settings.py(e.g., Traning_Instance_Count, Testing_Instance_Count) every time you perform training or prediction. Please click xxxxxxxxxx to download the ElectionParams.7z file.
+The params are essential for setting the settings.py(e.g., Traning_Instance_Count, Testing_Instance_Count) every time you perform training or prediction. Please click https://s3-ap-southeast-1.amazonaws.com/somethingx86dynamics/dataset_election_and_params/ElectionDataset.7z to download the ElectionParams.7z file.
 
 -------------
 Download saved model
